@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1538234813 source:d:\实验室\任务\重新开始的opencv\concat\main.cpp
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<shlwapi.h>
+	"resource.h"
+
+1538234977 d:\实验室\任务\重新开始的opencv\concat\resource.h
+
+1538231838 source:d:\实验室\任务\重新开始的opencv\concat\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
